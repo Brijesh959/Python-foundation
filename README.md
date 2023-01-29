@@ -12,3 +12,7 @@ This repository holds projects which touch upon the very foundation of object or
 - This project is to showcase analysis of football world cup using pandas library.
 - This project shows the uses of  various function such as iloc , loc  and show how to do conditional search in pandas.
 - This also enable us that how to use regular expression ,group by in pandas.
+
+## 4. Time calulator
+- This project is to showcase custom function definition and utilization in python, nested loop concept.
+- This also show that how to set default value in function.
