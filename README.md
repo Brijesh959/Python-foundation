@@ -11,4 +11,4 @@ This repository holds projects which touch upon the very foundation of object or
 ## 3. World cup data analysis
 - This project is to showcase analysis of football world cup using pandas library.
 - This project shows the uses of  various function such as iloc , loc  and show how to do conditional search in pandas.
-- This also enable us that how to use regular expression in pandas.
+- This also enable us that how to use regular expression ,group by in pandas.
