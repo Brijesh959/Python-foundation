@@ -16,3 +16,8 @@ This repository holds projects which touch upon the very foundation of object or
 ## 4. Time calculator
 - This project is to showcase custom function definition and utilization in python, nested loop concept.
 - This also show that how to set default value in function.
+
+## 5. Courier company data analysis
+- This project is to showcase analysis of Courier company data using pandas library.
+- Core aim of this project to find out whatever amount logistic company pay to courier company whether it is correct or not and making summery of results.
+- Various inbuilt method were used to complete the project such as loc,iloc and how to do conditional search in pandas also shown.  
